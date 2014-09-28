@@ -1,0 +1,9 @@
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DictionarySample\DictionarySample\bin\Debug\DictionarySample.exe.config
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DictionarySample\DictionarySample\bin\Debug\DictionarySample.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DictionarySample\DictionarySample\bin\Debug\DictionarySample.pdb
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DictionarySample\DictionarySample\obj\Debug\DictionarySample.csprojResolveAssemblyReference.cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DictionarySample\DictionarySample\obj\Debug\DictionarySample.Form1.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DictionarySample\DictionarySample\obj\Debug\DictionarySample.Properties.Resources.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DictionarySample\DictionarySample\obj\Debug\DictionarySample.csproj.GenerateResource.Cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DictionarySample\DictionarySample\obj\Debug\DictionarySample.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\DictionarySample\DictionarySample\obj\Debug\DictionarySample.pdb
